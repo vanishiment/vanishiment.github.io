@@ -1,94 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  
-  <title>MarkDown 笔记 | Vanishiment</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="由于 Hexo Markdown 插件渲染的关系，并不是所有的效果都能显示。">
-<meta name="keywords" content="markdown">
-<meta property="og:type" content="article">
-<meta property="og:title" content="MarkDown 笔记">
-<meta property="og:url" content="https://vanishiment.github.io/2017/09/28/markdown-note/index.html">
-<meta property="og:site_name" content="Vanishiment">
-<meta property="og:description" content="由于 Hexo Markdown 插件渲染的关系，并不是所有的效果都能显示。">
-<meta property="og:locale" content="zh-CN">
-<meta property="og:image" content="http://images.cnblogs.com/cnblogs_com/zhangyn/922022/o_%e6%89%8b.jpg">
-<meta property="og:image" content="http://images.cnblog.com/cnblogs_com/zhangyn/922022/o_%e6%89%8b.jpg">
-<meta property="og:updated_time" content="2017-09-28T05:26:53.778Z">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="MarkDown 笔记">
-<meta name="twitter:description" content="由于 Hexo Markdown 插件渲染的关系，并不是所有的效果都能显示。">
-<meta name="twitter:image" content="http://images.cnblogs.com/cnblogs_com/zhangyn/922022/o_%e6%89%8b.jpg">
-  
-  
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
   
     
-  
-  <link rel="stylesheet" href="/css/style.css">
-  
-
-</head>
-
-<body>
-  <div id="container">
-    <div id="wrap">
-      <header id="header">
-  <div id="banner"></div>
-  <div id="header-outer" class="outer">
-    <div id="header-title" class="inner">
-      <h1 id="logo-wrap">
-        <a href="/" id="logo">Vanishiment</a>
-      </h1>
-      
-        <h2 id="subtitle-wrap">
-          <a href="/" id="subtitle">我的博客</a>
-        </h2>
-      
-    </div>
-    <div id="header-inner" class="inner">
-      <nav id="main-nav">
-        <a id="main-nav-toggle" class="nav-icon"></a>
-        
-          <a class="main-nav-link" href="/">Home</a>
-        
-          <a class="main-nav-link" href="/archives">Archives</a>
-        
-      </nav>
-      <!-- <nav id="sub-nav">
-        
-        <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
-      </nav>
-      <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://vanishiment.github.io"></form>
-      </div> -->
-    </div>
-  </div>
-</header>
-      <div class="outer">
-        <section id="main"><article id="post-markdown-note" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2017/09/28/markdown-note/" class="article-date">
-  <time datetime="2017-09-28T04:50:12.000Z" itemprop="datePublished">2017-09-28</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 class="article-title" itemprop="name">
-      MarkDown 笔记
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>由于 Hexo Markdown 插件渲染的关系，并不是所有的效果都能显示。<br><a id="more"></a></p>
+    <entry>
+      <title><![CDATA[MarkDown 笔记]]></title>
+      <url>/2017/09/28/markdown-note/</url>
+      <content type="html"><![CDATA[<p>由于 Hexo Markdown 插件渲染的关系，并不是所有的效果都能显示。<br><a id="more"></a></p>
 <p>MarkDown 一种用于写作的轻量级【标记语言】。它用简洁的语法代替排版，而不像一般的文字处理软件 Word 或者 Pages 有大量的排版、字体设置等。</p>
 <p>如果你对文章的样式没有太多要求，只注重写文章本身的话 MarkDown 将会是一个不错的选择。</p>
 <h2 id="一、工具"><a href="#一、工具" class="headerlink" title="一、工具"></a>一、<strong>工具</strong></h2><p>支持 MarkDown 写作的软件有很多，因为国外平台的国内访问大都不太稳，这里就列举几个国内常用的：</p>
@@ -260,116 +177,66 @@
 <p><a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="external">MarkDown Tex 公式输入语法参考</a></p>
 <p><a href="https://bramp.github.io/js-sequence-diagrams/" target="_blank" rel="external">MarkDown 时序图语法参考</a></p>
 <p><a href="http://flowchart.js.org/" target="_blank" rel="external">MarkDown 流程图语法参考</a></p>
-
+]]></content>
       
-    </div>
-    <footer class="article-footer">
-      <!-- <a data-url="https://vanishiment.github.io/2017/09/28/markdown-note/" data-id="cj84dbwae0000xstw35gj0imn" class="article-share-link">Share</a> -->
+        
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hexo 博客搭建]]></title>
+      <url>/2017/09/21/build-blog/</url>
+      <content type="html"><![CDATA[<p>简单记录搭建博客的过程。</p>
+<a id="more"></a>
+<h2 id="本地搭建-Hexo-博客"><a href="#本地搭建-Hexo-博客" class="headerlink" title="本地搭建 Hexo 博客"></a>本地搭建 Hexo 博客</h2><h3 id="基本安装"><a href="#基本安装" class="headerlink" title="基本安装"></a>基本安装</h3><p>按照 <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> 官网的方法，检查是否已经安装 Git 和 Node.js。然后顺序操作。需要注意的是，安装上述软件及 Hexo 时可能需要挂代理，不然下载太慢。可以使用 <a href="https://github.com/getlantern/lantern" target="_blank" rel="external">Lantern</a>，如果还是慢就需要耐心等待了。到此基本就可以安装成功了。</p>
+<p>本地安装成功后，就可以生成 blog ，查看本地效果了。在安装的文件夹下鼠标右键 Git Bash Here 打开 Git 命令行依次使用</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ hexo g //生成静态文件</div><div class="line"></div><div class="line">$ hexo s //运行本地服务器</div></pre></td></tr></table></figure>
+<p>窗口会提示 blog 本地地址，一般是 <a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a>，打开这个地址就可以预览本地效果。</p>
+<h3 id="自定义"><a href="#自定义" class="headerlink" title="自定义"></a>自定义</h3><p>Hexo Blog 的自定义大部分在安装文件夹的根目录的 _config.yml 文件中修改，具体可以参照官网的说明 <a href="https://hexo.io/zh-cn/docs/configuration.html" target="_blank" rel="external">（Hexo Blog 自定义配置）</a> 按照自己的需求修改。 </p>
+<h3 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h3><p>预览本地效果时，可以看到浏览器一直在加载，猜测可能是某些资源或者脚本加载超时，由于不是搞前端的，遂直接搜索一番。果然，原来是 hexo blog 默认主题 landscape 使用了 Google 的 jQuery 库和代码等宽字体库，所以国内访问不到。解决方法，jQuery 替换为百度的 jQuery 库，Google 字体库的话直接删除。最后还有一个跨平台的字体优化，详情见这里 <a href="http://kuangqi.me/tricks/hexo-optimizations-for-mainland-china/" target="_blank" rel="external">Hexo Landscape主题的字体和JS库优化</a> ，在上述链接中有一处错误。即最后一段 代码等宽字体优化中需要编辑的文件为 Hexo blog 安装文件夹\themes\landscape\layout_partial\head.ejs 。</p>
+<p>至此，本地基本安装及优化完毕。</p>
+<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><h3 id="注册-GitHub-账号"><a href="#注册-GitHub-账号" class="headerlink" title="注册 GitHub 账号"></a>注册 GitHub 账号</h3><p>需要注意的是注册时 username 和 之后 blog 的地址有关。即 username.github.io 所以要慎重填写。注册完后新建一个名字为 username.github.io 的项目。<br>配置 _config.yml 文件中的 deploy，即</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  <span class="built_in">type</span>: git</div><div class="line">  repository: https://github.com/username/username.github.io.git</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
+<p>注意 deploy 配置中冒号与后面内容是有空格的。</p>
+<p>至此，可以尝试使用 hexo d 命令部署到刚才新建的 username.github.io 的空项目。过程中按照提示操作即可。还有可能出现 403 等权限错误，那就需要下的配置SSH KEY 了。</p>
+<h3 id="配置-SSH-KEY"><a href="#配置-SSH-KEY" class="headerlink" title="配置 SSH KEY"></a>配置 SSH KEY</h3><h4 id="生成-SSH-密钥"><a href="#生成-SSH-密钥" class="headerlink" title="生成 SSH 密钥"></a>生成 SSH 密钥</h4><p>任意位置鼠标右键 Git Bash Here 打开命令行，输入</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ <span class="built_in">cd</span> ~/.ssh</div><div class="line"><span class="comment"># Checks to see if there is a directory named ".ssh" in your user directory 在用户的根目录下检查是否有名为 ".ssh" 的文件存在。一般第一使用的话是没有的。</span></div></pre></td></tr></table></figure>
+<p>使用 ssh-keygen 生成密钥</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh-keygen -t rsa -C <span class="string">"your_email@example.com"</span></div><div class="line"><span class="comment"># Creates a new ssh key using the provided email 即注册 GitHub 账号的邮箱</span></div><div class="line">Generating public/private rsa key pair.</div><div class="line">Enter file <span class="keyword">in</span> <span class="built_in">which</span> to save the key (/home/you/.ssh/id_rsa):</div></pre></td></tr></table></figure>
+<p>保存密钥对的文件是可以自定义的，当然也可不填直接 Enter 使用括号中的默认值。接下来是输入密码及确认密码。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">Enter passphrase (empty <span class="keyword">for</span> no passphrase): [Type a passphrase]</div><div class="line">Enter same passphrase again: [Type passphrase again]</div></pre></td></tr></table></figure>
+<p>此处的密码可以自定义或者不设密码。<br>接着会提示密钥对生成成功。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">Your identification has been saved <span class="keyword">in</span> /home/you/.ssh/id_rsa.</div><div class="line">Your public key has been saved <span class="keyword">in</span> /home/you/.ssh/id_rsa.pub.</div><div class="line">The key fingerprint is:</div><div class="line">…………………此处是密钥内容…………………… your_email@example.com</div></pre></td></tr></table></figure>
+<h4 id="GitHub-项目的公钥设置"><a href="#GitHub-项目的公钥设置" class="headerlink" title="GitHub 项目的公钥设置"></a>GitHub 项目的公钥设置</h4><p>打开 username.github.io 项目的 setting 找到 Deploy keys 点击 add deply key ，将上步中已经生成了密钥 id_rsa.pub 中的内容复制到 key 输入框中 title 自定义即可。其实也可以在整个账号的 settings –&gt; SSH and GPG keys 中的 SSH keys 中添加公钥。</p>
+<p>然后测试配置是否成功，命令行输入</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ ssh -T git@github.com</div></pre></td></tr></table></figure>
+<p>提示出现成功即可</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">Hi username! You<span class="string">'ve successfully authenticated, but GitHub does not</span></div><div class="line"><span class="string">provide shell access.</span></div></pre></td></tr></table></figure>
+<h4 id="修改-config-yml-的-deploy"><a href="#修改-config-yml-的-deploy" class="headerlink" title="修改 _config.yml 的 deploy"></a>修改 _config.yml 的 deploy</h4><p>repo 地址改用 ssh 形式，即</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  <span class="built_in">type</span>: git</div><div class="line">  repository: git@github.com:username/username.github.io.git</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
+<p>至此，就可以成功部署到 GitHub 了。</p>
+<h4 id="部署到-GitHub-时，多账号引起的错误"><a href="#部署到-GitHub-时，多账号引起的错误" class="headerlink" title="部署到 GitHub 时，多账号引起的错误"></a>部署到 GitHub 时，多账号引起的错误</h4><p>当使用多个账号部署时可能发生下面的错误，即</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">remote: Permission to 第二个账号username/第二个账号username.github.io.git denied to 第一个账号username.</div><div class="line">fatal: unable to access <span class="string">'https://github.com/第二个账号username/第二个账号username.github.io.git/'</span>: The requested URL returned error: 403</div><div class="line">FATAL Something<span class="string">'s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html</span></div><div class="line"><span class="string">Error: remote: Permission to 第二个账号username/第二个账号username.github.io.git denied to 第一个账号username.</span></div><div class="line"><span class="string">fatal: unable to access '</span>https://github.com/第二个账号username/第二个账号username.github.io.git/<span class="string">': The requested URL returned error: 403</span></div><div class="line"><span class="string"></span></div><div class="line"><span class="string">    at ChildProcess.&lt;anonymous&gt; (/.../第二个账号username.github.io/node_modules/hexo-util/lib/spawn.js:37:17)</span></div><div class="line"><span class="string">    at emitTwo (events.js:87:13)</span></div><div class="line"><span class="string">    at ChildProcess.emit (events.js:172:7)</span></div><div class="line"><span class="string">    at maybeClose (internal/child_process.js:827:16)</span></div><div class="line"><span class="string">    at Socket.&lt;anonymous&gt; (internal/child_process.js:319:11)</span></div><div class="line"><span class="string">    at emitOne (events.js:77:13)</span></div><div class="line"><span class="string">    at Socket.emit (events.js:169:7)</span></div><div class="line"><span class="string">    at Pipe._onclose (net.js:477:12)</span></div></pre></td></tr></table></figure>
+<p>错误原因，默认情况下，github page 是私有项目，只有该 page 对应的账号才能提交代码。上述错误是第二个账号的仓库拒绝了第一个账号的提交。出现这种情况的原因是:安装Git时安装了GitGUI，自动在 system 级别中设置 credential.helper=manager 。并且不论配置所处级别（system、global或者local）如何，一旦设置了 manager ，都优先使用该方式。具体到该错误就是：该Win系统第一次使用 https 协议提交代码时，弹出了登陆 GitHub 的登陆界面，输入账号密码之后，顺利提交代码，同时 Git 自动在 system 级别中设置 credential.helper=manager ，并使用 Windows 的凭据管理保存了 GitHub 的登陆信息，而且登陆信息是全局性的，除非删除，否则无法通过 git 设置 local 或者 global 信息改变。提交另一项目时切换了账号，而全局的登陆信息还没有改变，所以出现了上述错误。</p>
+<p>解决方法，在 Windows 控制面板–&gt;用户账户–&gt;管理你的凭据–&gt;Windows凭据 中找到关于 github.com 的凭据删除，然后重新 hexo d 按提示操作即可。</p>
+<p><a href="http://www.jianshu.com/p/0ad3d88c51f4" target="_blank" rel="external">关于 GitHub 多账号问题</a></p>
+<h2 id="使用自己的顶级域名"><a href="#使用自己的顶级域名" class="headerlink" title="使用自己的顶级域名"></a>使用自己的顶级域名</h2><p>使用自己域名的话，主要涉及到域名解析的问题，具体可以参考各大 DNS 解析服务商的说明。</p>
+]]></content>
       
-      
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/markdown/">markdown</a></li></ul>
-
-    </footer>
-  </div>
-  
-    
-<nav id="article-nav">
-  
-  
-    <a href="/2017/09/21/build-blog/" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">Hexo 博客搭建</div>
-    </a>
-  
-</nav>
-
-  
-</article>
-
-</section>
         
-          <aside id="sidebar">
-  
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">归档</h3>
-    <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">九月 2017</a><span class="archive-list-count">2</span></li></ul>
-    </div>
-  </div>
-
-
-  
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">最新文章</h3>
-    <div class="widget">
-      <ul>
+        <tags>
+            
+            <tag> hexo、blog </tag>
+            
+        </tags>
         
-          <li>
-            <a href="/2017/09/28/markdown-note/">MarkDown 笔记</a>
-          </li>
-        
-          <li>
-            <a href="/2017/09/21/build-blog/">Hexo 博客搭建</a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
+    </entry>
     
-
   
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">标签</h3>
-    <div class="widget">
-      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/hexo、blog/">hexo、blog</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/markdown/">markdown</a><span class="tag-list-count">1</span></li></ul>
-    </div>
-  </div>
-
-
   
-</aside>
-        
-      </div>
-      <footer id="footer">
-  
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; 2017 Vanishiment<br>
-      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
-    </div>
-  </div>
-</footer>
-    </div>
-    <nav id="mobile-nav">
-  
-    <a href="/" class="mobile-nav-link">Home</a>
-  
-    <a href="/archives" class="mobile-nav-link">Archives</a>
-  
-</nav>
-    
-
-<script src="https://apps.bdimg.com/libs/jquery/2.0.3/jquery.min.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof jQuery == 'undefined') {
-  document.write(unescape("%3Cscript src='/js/jquery-2.0.3.min.js' type='text/javascript'%3E%3C/script%3E"));
-}
-// ]]>
-</script>
-
-
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
-  <script src="/fancybox/jquery.fancybox.pack.js"></script>
-
-
-<script src="/js/script.js"></script>
-
-  </div>
-</body>
-</html>
+</search>
